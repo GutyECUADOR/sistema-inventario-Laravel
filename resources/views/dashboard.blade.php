@@ -14,7 +14,7 @@
                         <button id="add-client-btn" class="bg-blue-600 text-white py-2 px-4 rounded-md hover:bg-blue-700">Añadir Cliente</button>
                     </div>
                     <div id="clients-table-container">
-                       </div>
+                    </div>
                 </div>
             </div>
 

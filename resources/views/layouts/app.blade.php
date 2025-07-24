@@ -32,5 +32,7 @@
                 {{ $slot }}
             </main>
         </div>
+
+        @include('partials._notification')
     </body>
 </html>
